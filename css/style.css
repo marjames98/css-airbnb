@@ -1,3 +1,20 @@
 h1 {
-  color: salmon;
+  color: darkslategray;
+  text-align: center;
+  font-size: 45px
 }
+h2 {
+  color: darkslategray;
+  text-align: center;
+  font-size: 30px; 
+}
+img {
+  height:600px;
+  width: 600px;
+  justify-items: center;
+  font-style: normal;
+  font-size: medium;
+  text-decoration-color: white;
+}
+
+/* couldn't figure out how to get text on top of images */
